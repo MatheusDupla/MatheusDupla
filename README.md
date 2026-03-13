@@ -4,6 +4,5 @@
 
 ---
 
-![snake gif](https://github.com/MatheusDupla/MatheusDupla/blob/output/github-contribution-grid-snake.gif)
-
+![snake gif](https://github.com/MatheusDupla/MatheusDupla/blob/output/github-contribution-grid-snake-dark.gif)
 </div>
