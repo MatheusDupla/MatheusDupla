@@ -16,12 +16,4 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusDupla&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusDupla&layout=compact&theme=dark&hide_border=true)
-
----
-
-![snake gif](https://github.com/MatheusDupla/MatheusDupla/blob/output/github-contribution-grid-snake-dark.gif)
-
 </div>
